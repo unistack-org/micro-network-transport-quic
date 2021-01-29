@@ -1,7 +1,8 @@
-module github.com/micro/go-plugins/transport/quic/v2
+module github.com/unistack-org/micro-network-transport-quic/v3
 
-go 1.13
+go 1.15
 
-require github.com/micro/go-micro/v2 v2.9.1-0.20200716153311-f9bf56239306
-
-replace github.com/coreos/etcd => github.com/ozonru/etcd v3.3.20-grpc1.27-origmodule+incompatible
+require (
+	github.com/lucas-clemente/quic-go v0.19.3
+	github.com/unistack-org/micro/v3 v3.2.4
+)
