@@ -159,6 +159,8 @@ github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/
 github.com/tarm/serial v0.0.0-20180830185346-98f6abe2eb07/go.mod h1:kDXzergiv9cbyO7IOYJZWg1U88JhDg3PB6klq9Hg2pA=
 github.com/unistack-org/micro/v3 v3.2.4 h1:V/QrzeSI/Bjd0j7uL8Lvvbbz8ky/0yj69srd1lE1RLI=
 github.com/unistack-org/micro/v3 v3.2.4/go.mod h1:J8XxJj4Pqa3Ee0a4biRRtut7UwTlfBq8QRe+s4PKGS0=
+github.com/unistack-org/micro/v3 v3.2.8 h1:M1qgOz+qgSf/coFeIqDKa7Xc+b3s7du1Yin+i10o3aw=
+github.com/unistack-org/micro/v3 v3.2.8/go.mod h1:J8XxJj4Pqa3Ee0a4biRRtut7UwTlfBq8QRe+s4PKGS0=
 github.com/viant/assertly v0.4.8/go.mod h1:aGifi++jvCrUaklKEKT0BU95igDNaqkvz+49uaYMPRU=
 github.com/viant/toolbox v0.24.0/go.mod h1:OxMCG57V0PXuIP2HNQrtJf2CjqdmbrOx5EkMILuUhzM=
 go.opencensus.io v0.18.0/go.mod h1:vKdFvxhtzZ9onBp9VKHK8z/sRpBMnKAsufL7wlDrCOA=
