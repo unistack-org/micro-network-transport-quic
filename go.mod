@@ -4,5 +4,5 @@ go 1.15
 
 require (
 	github.com/lucas-clemente/quic-go v0.20.0
-	github.com/unistack-org/micro/v3 v3.2.23
+	github.com/unistack-org/micro/v3 v3.2.24
 )
